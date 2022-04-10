@@ -6,8 +6,8 @@ c++状态机，状态之间的跳转管理
 状态机类，实现状态与状态之间的跳转逻辑
 ## 使用
 
-···
+```
 //创建状态机
 CStateMachine *stateMachine = new CStateMachine();
-···
+```
 
