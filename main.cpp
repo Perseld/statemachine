@@ -58,5 +58,6 @@ int main()
     stateMachine->ChangeState(EXIT);
 
     getchar();
+    delete stateMachine;
     return 0;
 }
