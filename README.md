@@ -41,3 +41,12 @@ init->To(begin)->When([](){
 \\切换状态
 stateMachine->ChangeState(BEGIN);
 ```
+
+### 测试结果
+```
+Enter Begin
+Exit Begin
+Enter Running
+Exit Running
+Enter HoldOn
+```
